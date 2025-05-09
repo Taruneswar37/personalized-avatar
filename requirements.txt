@@ -1,0 +1,23 @@
+# Core Libraries
+torch==2.1.0
+numpy==1.24.4
+Pillow==10.2.0
+
+# Diffusers & ControlNet
+diffusers==0.25.0
+transformers==4.36.2
+accelerate==0.25.0
+controlnet-aux==0.0.6
+huggingface_hub==0.19.4
+
+# Gradio for Web UI
+gradio==4.44.1
+fastapi==0.110.1
+uvicorn==0.29.0
+
+# Face Analysis
+insightface==0.7.3
+onnxruntime==1.17.1
+
+# Optional but helpful
+scipy==1.11.4
